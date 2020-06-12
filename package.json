@@ -1,0 +1,23 @@
+{
+  "name": "graphQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vunderkind/graphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vunderkind/graphQL/issues"
+  },
+  "homepage": "https://github.com/vunderkind/graphQL#readme",
+  "dependencies": {
+    "graphql": "^15.1.0"
+  }
+}
